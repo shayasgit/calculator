@@ -1,1 +1,1 @@
-console.log('Calculator');
+console.log('Calculator')
