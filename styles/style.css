@@ -62,6 +62,6 @@ h1 {
 .keypad .equals {
     background-color: green;
 }
-.keypad .equals {
+.keypad .equals, .keypad .all-clear {
     width: 170px;
 }
